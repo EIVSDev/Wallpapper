@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376621468938",
+    "firebase_url": "https://wallpapper-5a3e2.firebaseio.com",
+    "project_id": "wallpapper-5a3e2",
+    "storage_bucket": "wallpapper-5a3e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376621468938:android:1b29133ee0140935",
+        "android_client_info": {
+          "package_name": "com.eivsdev.vjacheslav.wallpapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376621468938-7po4qe5b1chtq3ee9piume3hcgcsq09m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eivsdev.vjacheslav.wallpapper",
+            "certificate_hash": "25ebb14fe46e24cdd306ccc284930bb23bfb7fad"
+          }
+        },
+        {
+          "client_id": "376621468938-13r727blitp25h5d5ppkg9ppt3bu8rui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCfm8F33LeWhILlqzykd7TshI_XHi5yes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376621468938-13r727blitp25h5d5ppkg9ppt3bu8rui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
